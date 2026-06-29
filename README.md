@@ -40,6 +40,12 @@ cd mini-rag-app
 pip install -r requirements.txt
 ```
 
+### set up envirnment variables
+
+```bash
+$ cp .env.example  .env
+```
+
 ### 6. Run the application
 
 ```bash
